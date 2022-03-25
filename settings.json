@@ -1,0 +1,8 @@
+{
+    "onlyUpdateMain": true,
+    "repository": "CiCdDotnetCore",
+    "branch": "main",
+    "GitLabToken": "abcde",
+    "rootDirectory": "F:\\TestGit\\",
+    "scriptAfterCommit": ".\\publish.bat"
+}
